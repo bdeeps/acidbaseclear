@@ -1,0 +1,126 @@
+{
+  "slug": "acidbaseclear",
+  "box": 36,
+  "question": "What are acids and bases?",
+  "url": "https://glassbox.how/e/acidbaseclear/",
+  "app": "https://glassbox.how/acidbaseclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a sour taste and a lichen dye to ions, protons and a number called pH.\n\n1664: Boyle's colours\n1777: Lavoisier's wrong guess: oxygen makes acids\n1810: Davy: no oxygen in muriatic acid\n1872: Acid rain gets its name\n1884: Arrhenius: acids are ions in water\n1909: Sørensen invents pH\n\nThe full story, with 20 moments, sources and charts: glassbox.how/e/acidbaseclear/history (link in bio)\n\nThen play with how it works: glassbox.how/acidbaseclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #acidsandbases #ph #phscale #hydrogenion #hydronium #strongandweakacids #history",
+      "youtube": {
+        "title": "The history of acids and bases in 45 seconds #shorts",
+        "description": "From a sour taste and a lichen dye to ions, protons and a number called pH.\n\n1664 · Boyle's colours (Robert Boyle)\n1777 · Lavoisier's wrong guess: oxygen makes acids (Antoine Lavoisier)\n1810 · Davy: no oxygen in muriatic acid (Humphry Davy)\n1872 · Acid rain gets its name (Robert Angus Smith)\n1884 · Arrhenius: acids are ions in water (Svante Arrhenius)\n1909 · Sørensen invents pH (Søren Sørensen)\n\n▶ Full history: https://glassbox.how/e/acidbaseclear/history/\n▶ Play with it: https://glassbox.how/e/acidbaseclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What are acids and bases?\n\nLemon juice has about 20,000 times more hydrogen ions than milk, and one drop can swing a flask from pH 4 to pH 10. Solve real pH from real equilibrium constants, run a titration, watch a haldi stain turn red, see why blood stays at 7.4, and test what alkaline water really does to stomach acid.\n\n→ An acid gives hydrogen ions to water. Each step down the pH scale means ten times more of them.\n→ Vinegar’s acid is weak: at 0.1 mol/L only 1 molecule in 76 lets go, so its pH is 2.9, not 1.\n→ Battery acid, lemon, curd, milk, blood, soap, bleach: every step along the shelf is ten times.\n→ Rub soap on a haldi stain and it turns red. Turmeric is a pH indicator.\n→ Add base to acid drop by drop. For 24 millilitres almost nothing happens. Then one drop flips it.\n\nPlay with it yourself. It's free and open source: glassbox.how/acidbaseclear (link in bio)\n\nBox No. L36 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #acidsandbases #ph #phscale #hydrogenion #hydronium #strongandweakacids #ka #kw #indicator",
+    "carousel": "Swipe through: What are acids and bases?\n\nLemon juice has about 20,000 times more hydrogen ions than milk, and one drop can swing a flask from pH 4 to pH 10. Solve real pH from real equilibrium constants, run a titration, watch a haldi stain turn red, see why blood stays at 7.4, and test what alkaline water really does to stomach acid.\n\nSave this for later, then play with the interactive version at glassbox.how/acidbaseclear (link in bio).\n\nBox No. L36 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #acidsandbases #ph #phscale #hydrogenion #hydronium #strongandweakacids",
+    "youtube": {
+      "title": "What are acids and bases? #shorts",
+      "description": "Lemon juice has about 20,000 times more hydrogen ions than milk, and one drop can swing a flask from pH 4 to pH 10. Solve real pH from real equilibrium constants, run a titration, watch a haldi stain turn red, see why blood stays at 7.4, and test what alkaline water really does to stomach acid.\n\n▶ Play with it: https://glassbox.how/e/acidbaseclear/\n⌘ Source code (MIT): https://github.com/bdeeps/acidbaseclear\n\nBox No. L36 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What are acids and bases? (interactive explainer)",
+      "description": "Lemon juice has about 20,000 times more hydrogen ions than milk, and one drop can swing a flask from pH 4 to pH 10. Solve real pH from real equilibrium constants, run a titration, watch a haldi stain turn red, see why blood stays at 7.4, and test what alkaline water really does to stomach acid.\n\n▶ Play with the interactive version: https://glassbox.how/e/acidbaseclear/\n⌘ Source code (MIT): https://github.com/bdeeps/acidbaseclear\n\nIn this video:\n• The pH scale. An acid gives a proton to water, making H₃O⁺; a base takes one, leaving OH⁻.\n• Around the house. Lemon juice is about pH 2.3, curd 4.6, milk 6.6, blood 7.4, baking soda 8.3, soap 9 to 10, bleach about 12.5.\n• Neutralisation. Acid plus base gives a salt and water.\n• Buffers, blood, teeth and rain. A weak acid mixed with its salt soaks up added acid or base.\n• Limits and a myth. pH can go below 0 and above 14.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What are acids and bases?\n\nLemon juice has about 20,000 times more hydrogen ions than milk, and one drop can swing a flask from pH 4 to pH 10.\n\nPlay with it: https://glassbox.how/e/acidbaseclear/",
+    "linkedin": "What are acids and bases?\n\nLemon juice has about 20,000 times more hydrogen ions than milk, and one drop can swing a flask from pH 4 to pH 10. Solve real pH from real equilibrium constants, run a titration, watch a haldi stain turn red, see why blood stays at 7.4, and test what alkaline water really does to stomach acid.\n\n1. The pH scale\n2. Around the house\n3. Neutralisation\n4. Buffers, blood, teeth and rain\n5. Limits and a myth\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L36 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/acidbaseclear/\nCode: https://github.com/bdeeps/acidbaseclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T12:29:44.517Z"
+}

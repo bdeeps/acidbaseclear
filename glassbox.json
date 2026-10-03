@@ -1,0 +1,181 @@
+{
+  "slug": "acidbaseclear",
+  "kind": "principle",
+  "box": 36,
+  "date": "2026-10-03",
+  "title": "Acids and bases",
+  "question": "What are acids and bases?",
+  "principle": {
+    "type": "concept",
+    "name": "Acids and bases",
+    "formula": "pH = −log[H⁺]",
+    "formulaNote": "pH = minus the logarithm of the hydrogen ion concentration in mol/L. Each step down the scale means ten times more hydrogen ions, and pure water sits at 7",
+    "idea": "An acid gives away hydrogen ions (protons) and a base takes them. The pH scale counts the hydrogen ions in a liquid in powers of ten: below 7 is acidic, above 7 is basic, and when an acid meets a base they cancel to make a salt and water.",
+    "discovered": "1884 · Svante Arrhenius, Sweden; the pH scale in 1909 by Søren Sørensen, Denmark",
+    "art": "flask",
+    "appliesTo": [
+      "curdclear",
+      "paneerclear",
+      "stomachclear",
+      "cakeclear",
+      "tongueclear",
+      "lungsclear",
+      "upsclear"
+    ],
+    "examples": [
+      {
+        "title": "Milk setting into curd",
+        "text": "Bacteria turn milk sugar into lactic acid. The pH falls from about 6.6 to 4.6, the milk proteins lose their charge, and the pot sets.",
+        "box": "curdclear"
+      },
+      {
+        "title": "Lemon juice making paneer",
+        "text": "A little acid stirred into hot milk drops the pH to about 5.3, and the proteins clump into curds you can press into paneer.",
+        "box": "paneerclear"
+      },
+      {
+        "title": "Your stomach's acid",
+        "text": "The stomach lining makes hydrochloric acid, a strong acid. Its contents sit at about pH 1.5 to 3.5, which switches on the enzyme pepsin and kills most microbes.",
+        "box": "stomachclear"
+      },
+      {
+        "title": "Baking soda making a cake rise",
+        "text": "Baking soda is a mild base. When it meets the acid in curd, lemon juice or baking powder, they neutralise and give off carbon dioxide, which puffs up the batter.",
+        "box": "cakeclear"
+      },
+      {
+        "title": "Why sour tastes sour",
+        "text": "Sour is the taste of hydrogen ions themselves. Protons from an acid flow into the tongue's sour cells through a channel, so the lower the pH, the sharper the taste.",
+        "box": "tongueclear"
+      },
+      {
+        "title": "Breathing and the pH of blood",
+        "text": "Blood is held between pH 7.35 and 7.45 by a bicarbonate buffer. The lungs breathe out carbon dioxide, which is the acid half of that buffer, within minutes.",
+        "box": "lungsclear"
+      },
+      {
+        "title": "The acid in an inverter battery",
+        "text": "A lead-acid battery's plates stand in sulphuric acid of about 4 to 5 mol/L, below pH 1. As the battery discharges the acid is used up and gets weaker.",
+        "box": "upsclear"
+      },
+      {
+        "title": "The haldi stain that turns red",
+        "text": "Turmeric's yellow dye is a natural pH indicator. Soap is basic, about pH 9 to 10, so a curry stain turns red-brown in the wash and yellow again when rinsed."
+      },
+      {
+        "title": "Sugar and tooth enamel",
+        "text": "Plaque bacteria turn sugar into acid within minutes. Below about pH 5.5 enamel loses mineral, and saliva needs half an hour or more to bring the pH back."
+      },
+      {
+        "title": "Acid rain and marble",
+        "text": "Clean rain is about pH 5.6 from dissolved carbon dioxide. Sulphur and nitrogen oxides push it to pH 4 to 5, and that acid slowly eats marble and limestone, which are calcium carbonate."
+      }
+    ]
+  },
+  "hook": "Lemon juice has about 20,000 times more hydrogen ions than milk, and one drop can swing a flask from pH 4 to pH 10. Solve real pH from real equilibrium constants, run a titration, watch a haldi stain turn red, see why blood stays at 7.4, and test what alkaline water really does to stomach acid.",
+  "thumbText": "ACIDS AND BASES",
+  "field": "chemistry",
+  "minutes": 12,
+  "tags": [
+    "acids and bases",
+    "pH",
+    "pH scale",
+    "hydrogen ion",
+    "hydronium",
+    "strong and weak acids",
+    "Ka",
+    "Kw",
+    "indicator",
+    "litmus",
+    "phenolphthalein",
+    "turmeric",
+    "neutralisation",
+    "titration",
+    "buffer",
+    "bicarbonate",
+    "blood pH",
+    "antacid",
+    "acid rain",
+    "tooth enamel",
+    "Arrhenius",
+    "Brønsted–Lowry",
+    "Sørensen",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "The pH scale",
+      "text": "An acid gives a proton to water, making H₃O⁺; a base takes one, leaving OH⁻. The two always multiply to 10⁻¹⁴ at 25 °C. pH is minus the log of the hydrogen ion concentration, so each step is a factor of ten. A strong acid ionises completely; a weak one, like vinegar's acetic acid, only about 1 molecule in 76 at 0.1 mol/L. The model solves the pH from the real constants."
+    },
+    {
+      "title": "Around the house",
+      "text": "Lemon juice is about pH 2.3, curd 4.6, milk 6.6, blood 7.4, baking soda 8.3, soap 9 to 10, bleach about 12.5. Indicators are dyes that change colour as they gain or lose a proton: litmus red to blue, phenolphthalein colourless to pink, and turmeric yellow to red-brown, which is why soap turns a haldi stain red."
+    },
+    {
+      "title": "Neutralisation",
+      "text": "Acid plus base gives a salt and water. In a titration the pH barely moves until the last drop, then jumps six units, because pH is a logarithm. A weak acid's end point sits above 7. Antacids are mild bases: baking soda, chalk and magnesium hydroxide each neutralise a fixed amount of acid per gram."
+    },
+    {
+      "title": "Buffers, blood, teeth and rain",
+      "text": "A weak acid mixed with its salt soaks up added acid or base. Blood's bicarbonate buffer, with lungs and kidneys, holds pH 7.35 to 7.45. Sugar drops plaque below pH 5.5, where enamel dissolves, for about a quarter of an hour each time. Clean rain is pH 5.6; pollution makes acid rain that attacks marble."
+    },
+    {
+      "title": "Limits and a myth",
+      "text": "pH can go below 0 and above 14. Hydrochloric acid at 10⁻⁸ mol/L is pH 6.98, not 8. Pure water at 100 °C is pH 6.1 and still neutral. Lewis widened acids to anything that accepts an electron pair. And a glass of pH 9.5 alkaline water changes stomach-strength acid exactly as plain water does: pH is not neutralising power."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Acid",
+      "def": "A substance that gives a proton (H⁺) to another. In water it raises the amount of H₃O⁺."
+    },
+    {
+      "term": "Base",
+      "def": "A substance that takes a proton. In water it raises the amount of OH⁻. A base that dissolves in water is an alkali."
+    },
+    {
+      "term": "pH",
+      "def": "Minus the logarithm of the hydrogen ion concentration in mol/L. One step is a factor of ten; 7 is neutral at 25 °C."
+    },
+    {
+      "term": "Strong and weak",
+      "def": "A strong acid or base ionises completely in water. A weak one ionises only partly, as its Ka describes. It is not the same as concentrated and dilute."
+    },
+    {
+      "term": "Indicator",
+      "def": "A dye that is one colour in acid and another in base, such as litmus, phenolphthalein or turmeric."
+    },
+    {
+      "term": "Neutralisation",
+      "def": "An acid and a base reacting to make a salt and water: H₃O⁺ + OH⁻ → 2 H₂O."
+    },
+    {
+      "term": "Titration",
+      "def": "Measuring an acid or base by adding its opposite from a burette until an indicator shows they exactly match."
+    },
+    {
+      "term": "Buffer",
+      "def": "A weak acid mixed with its salt. It resists changes in pH, as the bicarbonate in blood does."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "acidbaseclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

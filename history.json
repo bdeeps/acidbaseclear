@@ -1,0 +1,721 @@
+{
+ "title": "The history of acids and bases",
+ "tagline": "From a sour taste and a lichen dye to ions, protons and a number called pH.",
+ "intro": "For centuries an acid was simply something sour that turned plant dyes red, and an alkali something bitter and soapy that turned them back. Chemists spent a hundred years hunting for the element that made acids acid, and guessed wrong before they guessed right. Then, between 1884 and 1923, Arrhenius, Sørensen, Brønsted and Lowry turned taste into numbers: ions, protons and the pH scale. The same ideas now guard blood, teeth, lakes and marble.",
+ "eras": [
+  {
+   "id": "taste",
+   "name": "Sour, bitter and colour",
+   "from": 1300,
+   "to": 1775,
+   "color": "#ffb547",
+   "summary": "Acids and alkalis are known by taste and by the colours they give plant dyes. Salts are understood as acid joined to a base."
+  },
+  {
+   "id": "element",
+   "name": "Hunting the acid principle",
+   "from": 1776,
+   "to": 1883,
+   "color": "#ff7a59",
+   "summary": "Chemists look for the element that makes an acid. Lavoisier says oxygen, Davy proves him wrong, and Liebig settles on hydrogen."
+  },
+  {
+   "id": "ions",
+   "name": "Ions, protons and pH",
+   "from": 1884,
+   "to": 1924,
+   "color": "#8ef0ff",
+   "summary": "Arrhenius explains acids as ions in water, Sørensen invents pH, and Brønsted, Lowry and Lewis give the definitions used today."
+  },
+  {
+   "id": "world",
+   "name": "Measuring a changing world",
+   "from": 1925,
+   "to": 2026,
+   "color": "#5ce1a9",
+   "summary": "The pH meter makes acidity easy to read, and the numbers turn up in blood, teeth, rain, oceans and the marble of the Taj Mahal."
+  }
+ ],
+ "events": [
+  {
+   "year": 1300,
+   "date": "c. 1300",
+   "era": "taste",
+   "art": "leaf",
+   "key": false,
+   "title": "A lichen dye that tells acid from alkali",
+   "who": "Arnaldus de Villa Nova",
+   "where": "Catalonia",
+   "country": "Spain",
+   "text": "Around 1300 the Catalan physician Arnaldus de Villa Nova began using litmus, a dye made from lichens, to study acids and bases. The word comes from Old Norse for \"colouring moss\".",
+   "why": "Litmus is still the best-known test: red in acid, blue in base.",
+   "sources": [
+    2
+   ],
+   "box": "home"
+  },
+  {
+   "year": 1664,
+   "date": "1664",
+   "era": "taste",
+   "art": "colour",
+   "key": true,
+   "title": "Boyle's colours",
+   "who": "Robert Boyle",
+   "where": "London",
+   "country": "England",
+   "text": "In Experiments and Considerations Touching Colours, Boyle described how plant extracts such as syrup of violets take one colour with acids and another with alkalis. He argued that every acid and every alkali would behave the same way, so colour could sort the two.",
+   "why": "It was the first full account of chemical indicators, and it gave acids and alkalis a practical test instead of a taste.",
+   "sources": [
+    3,
+    27
+   ],
+   "box": "home"
+  },
+  {
+   "year": 1754,
+   "date": "1754",
+   "era": "taste",
+   "art": "flask",
+   "key": false,
+   "title": "The word \"base\"",
+   "who": "Guillaume-François Rouelle",
+   "where": "Paris",
+   "country": "France",
+   "text": "Rouelle, who taught Lavoisier, defined a neutral salt as the product of an acid joining with a substance that serves as its \"base\", giving the salt a solid form.",
+   "why": "It named the partner that every acid reacts with, and tied acids, bases and salts into one idea.",
+   "sources": [
+    4
+   ],
+   "box": "neutral"
+  },
+  {
+   "year": 1777,
+   "date": "1777",
+   "era": "element",
+   "art": "flame",
+   "key": true,
+   "title": "Lavoisier's wrong guess: oxygen makes acids",
+   "who": "Antoine Lavoisier",
+   "where": "Paris",
+   "country": "France",
+   "text": "Lavoisier named the gas oxygène, from Greek words meaning \"acid-former\", because he believed it was the element present in every acid. Sulphur, carbon and phosphorus do make acids when burnt in it, so the idea looked right.",
+   "why": "It was the first attempt to explain acidity by what an acid is made of. The theory was wrong, but the name stuck.",
+   "sources": [
+    5,
+    0
+   ],
+   "box": "idea"
+  },
+  {
+   "year": 1810,
+   "date": "1810",
+   "era": "element",
+   "art": "bolt",
+   "key": true,
+   "title": "Davy: no oxygen in muriatic acid",
+   "who": "Humphry Davy",
+   "where": "London",
+   "country": "England",
+   "text": "Davy showed that the green gas from \"oxymuriatic acid\" was an element, which he named chlorine, and that muriatic acid (hydrochloric acid) contains no oxygen at all. He concluded that acidity does not depend on any one element.",
+   "why": "It overturned Lavoisier's oxygen theory and turned attention to hydrogen.",
+   "sources": [
+    6,
+    0
+   ],
+   "box": "idea"
+  },
+  {
+   "year": 1838,
+   "date": "1838",
+   "era": "element",
+   "art": "flask",
+   "key": false,
+   "title": "Liebig: hydrogen a metal can replace",
+   "who": "Justus von Liebig",
+   "where": "Giessen",
+   "country": "Germany",
+   "text": "Liebig defined an acid as a compound containing hydrogen that can be replaced by a metal. The definition covered organic acids as well as mineral ones and was used for nearly fifty years.",
+   "why": "It fixed hydrogen as the mark of an acid, half a century before anyone knew about ions.",
+   "sources": [
+    0
+   ],
+   "box": "neutral"
+  },
+  {
+   "year": 1871,
+   "date": "1871",
+   "era": "element",
+   "art": "colour",
+   "key": false,
+   "title": "Phenolphthalein",
+   "who": "Adolf von Baeyer",
+   "where": "Germany",
+   "country": "Germany",
+   "text": "While studying dyes made from phenol, Baeyer made phenolphthalein: colourless in acid and neutral solutions, pink above about pH 8.3.",
+   "why": "It became the standard indicator for titrating weak acids, and the one this box's flask uses.",
+   "sources": [
+    8,
+    27
+   ],
+   "box": "neutral"
+  },
+  {
+   "year": 1872,
+   "date": "1872",
+   "era": "element",
+   "art": "building",
+   "key": true,
+   "title": "Acid rain gets its name",
+   "who": "Robert Angus Smith",
+   "where": "Manchester",
+   "country": "England",
+   "text": "Smith, Britain's first Alkali Inspector, had found in 1852 that rain over industrial cities carried sulphuric acid from coal smoke. In his 1872 book Air and Rain he used the term \"acid rain\".",
+   "why": "It was the first link between burning fuel and the chemistry of rain, a century before it became a public issue.",
+   "sources": [
+    7,
+    17
+   ],
+   "box": "buffers"
+  },
+  {
+   "year": 1884,
+   "date": "1884",
+   "era": "ions",
+   "art": "bolt",
+   "key": true,
+   "title": "Arrhenius: acids are ions in water",
+   "who": "Svante Arrhenius",
+   "where": "Uppsala",
+   "country": "Sweden",
+   "text": "In his doctoral thesis Arrhenius proposed that salts, acids and bases split into charged ions when they dissolve, without any electric current. An acid gives hydrogen ions and a base gives hydroxide ions. His examiners were unimpressed and gave the thesis a low grade. In 1903 the same work won him the Nobel Prize in Chemistry.",
+   "why": "It was the first modern definition of acids and bases, and it explains why strong acids conduct better than weak ones.",
+   "sources": [
+    9,
+    10,
+    0
+   ],
+   "box": "idea"
+  },
+  {
+   "year": 1908,
+   "date": "1908 and 1917",
+   "era": "ions",
+   "art": "heart",
+   "key": false,
+   "title": "Henderson and Hasselbalch write the buffer equation",
+   "who": "Lawrence Henderson; Karl Hasselbalch",
+   "where": "Boston and Copenhagen",
+   "country": "United States",
+   "text": "Henderson, studying how blood stays so steady, wrote an equation for the hydrogen ion concentration of the carbonic acid and bicarbonate mixture. After pH was invented, the Danish physiologist Hasselbalch rewrote it with logarithms.",
+   "why": "The Henderson–Hasselbalch equation is still how doctors and chemists reckon a buffer's pH.",
+   "sources": [
+    11,
+    26
+   ],
+   "box": "buffers"
+  },
+  {
+   "year": 1909,
+   "date": "1909",
+   "era": "ions",
+   "art": "scales",
+   "key": true,
+   "title": "Sørensen invents pH",
+   "who": "Søren Sørensen",
+   "where": "Carlsberg Laboratory, Copenhagen",
+   "country": "Denmark",
+   "text": "Studying how acidity affects proteins and enzymes at the Carlsberg brewery's laboratory, Sørensen tired of writing numbers like 0.0000001. He proposed the \"hydrogen ion exponent\", written pH, and described two ways to measure it: with electrodes and with colour indicators. His wife, Margrethe Høyrup Sørensen, worked with him on the studies.",
+   "why": "One small number replaced a string of zeros, and every field from medicine to brewing adopted it.",
+   "sources": [
+    12,
+    1
+   ],
+   "box": "idea"
+  },
+  {
+   "year": 1923,
+   "date": "1923",
+   "era": "ions",
+   "art": "molecule",
+   "key": true,
+   "title": "Brønsted and Lowry: pass the proton",
+   "who": "Johannes Brønsted; Thomas Martin Lowry",
+   "where": "Copenhagen and Cambridge",
+   "country": "Denmark",
+   "text": "Working independently, Brønsted in Denmark and Lowry in England defined an acid as a proton donor and a base as a proton acceptor. Every acid has a partner base, and water can play either part.",
+   "why": "It explained bases such as ammonia that contain no hydroxide, and it is the definition schools teach today.",
+   "sources": [
+    14,
+    0
+   ],
+   "box": "idea"
+  },
+  {
+   "year": 1923,
+   "date": "1923",
+   "era": "ions",
+   "art": "molecule",
+   "key": false,
+   "title": "Lewis: it is about electron pairs",
+   "who": "Gilbert N. Lewis",
+   "where": "Berkeley, California",
+   "country": "United States",
+   "text": "In the same year Lewis offered a wider idea: an acid accepts a pair of electrons and a base donates one. No hydrogen is needed at all. He developed the idea further in 1938.",
+   "why": "It stretched acid–base chemistry to reactions without water or protons.",
+   "sources": [
+    0,
+    14
+   ],
+   "box": "limits"
+  },
+  {
+   "year": 1925,
+   "date": "1906–1925",
+   "era": "world",
+   "art": "heart",
+   "key": false,
+   "title": "A glass electrode for blood",
+   "who": "Phyllis Tookey Kerridge",
+   "where": "London",
+   "country": "England",
+   "text": "Max Cremer had found in 1906 that a thin glass membrane develops a voltage that depends on the acid on either side, and in 1909 Fritz Haber and Zygmunt Klemensiewicz made it into the glass electrode. In 1925 Kerridge built the first one small and sensitive enough to measure the pH of blood samples.",
+   "why": "It took pH measurement from the chemistry bench into medicine, and every modern pH meter still has a glass electrode at its tip.",
+   "sources": [
+    13
+   ],
+   "box": "buffers"
+  },
+  {
+   "year": 1934,
+   "date": "1934",
+   "era": "world",
+   "art": "digital",
+   "key": true,
+   "title": "Beckman's pH meter",
+   "who": "Arnold Beckman",
+   "where": "Pasadena, California",
+   "country": "United States",
+   "text": "A citrus growers' chemist needed a quick way to measure the acidity of lemon juice. Beckman, then at Caltech, built an amplifier that could read a glass electrode and patented his \"acidimeter\". His company sold 444 pH meters in 1936, its first full year.",
+   "why": "pH became something anyone could read off a dial in seconds.",
+   "sources": [
+    15,
+    1
+   ],
+   "box": "idea"
+  },
+  {
+   "year": 1944,
+   "date": "1940s",
+   "era": "world",
+   "art": "person",
+   "key": false,
+   "title": "The Stephan curve",
+   "who": "Robert Stephan",
+   "where": "United States",
+   "country": "United States",
+   "text": "Stephan measured the pH of dental plaque after a sugar rinse. It fell sharply within minutes and took about half an hour or more to recover. Dentists later set the \"critical pH\" for enamel at about 5.5.",
+   "why": "It showed that how often you eat sugar matters as much as how much.",
+   "sources": [
+    16
+   ],
+   "box": "buffers"
+  },
+  {
+   "year": 1966,
+   "date": "1966 and 1994",
+   "era": "world",
+   "art": "candles",
+   "key": false,
+   "title": "Magic acid dissolves a candle",
+   "who": "George Olah",
+   "where": "Cleveland, Ohio",
+   "country": "United States",
+   "text": "After a Christmas party in 1966, a member of Olah's laboratory dropped a wax candle into a mixture of two fluorine-containing acids and it dissolved. The mixture was named magic acid. Such superacids are stronger than pure sulphuric acid, and Olah's work with them won the 1994 Nobel Prize in Chemistry.",
+   "why": "It showed that acidity has no upper limit at the bottom of the pH scale.",
+   "sources": [
+    20,
+    19,
+    21
+   ],
+   "box": "limits"
+  },
+  {
+   "year": 1972,
+   "date": "1963–1972",
+   "era": "world",
+   "art": "waterdrop",
+   "key": false,
+   "title": "Acid rain found in American forests",
+   "who": "Gene Likens and colleagues",
+   "where": "Hubbard Brook, New Hampshire",
+   "country": "United States",
+   "text": "From 1963 the Hubbard Brook Ecosystem Study found that rain in a remote New Hampshire forest was abnormally acidic, with one sample at pH 4.03, and traced it to pollution from distant chimneys. The work fed into the 1990 amendments to the US Clean Air Act, which capped sulphur dioxide.",
+   "why": "It turned acid rain from a Victorian observation into law.",
+   "sources": [
+    18,
+    17
+   ],
+   "box": "buffers"
+  },
+  {
+   "year": 1996,
+   "date": "30 December 1996",
+   "era": "world",
+   "art": "building",
+   "key": true,
+   "title": "The Supreme Court protects the Taj Mahal",
+   "who": "M. C. Mehta; Supreme Court of India",
+   "where": "Agra and New Delhi",
+   "country": "India",
+   "text": "In a case brought by the lawyer M. C. Mehta, the Supreme Court held that sulphur dioxide and particles from industries around Agra threatened the marble. It ordered 292 industries in the Taj Trapezium Zone, about 10,400 square kilometres, to stop using coal and coke.",
+   "why": "It is a landmark of Indian environmental law, built on the chemistry of acid and marble.",
+   "sources": [
+    22
+   ],
+   "box": "buffers"
+  },
+  {
+   "year": 2015,
+   "date": "2015",
+   "era": "world",
+   "art": "building",
+   "key": false,
+   "title": "What is really browning the Taj",
+   "who": "Mike Bergin, S. N. Tripathi and colleagues",
+   "where": "Agra",
+   "country": "India",
+   "text": "Researchers from American universities and IIT Kanpur collected the particles in Agra's air for a year and studied what settles on marble. They found that the yellow-brown tint comes mainly from black carbon, brown carbon and dust, from burning fuels and waste.",
+   "why": "It refined the acid rain story: acid attacks marble, but soot and dust are what discolour the Taj today.",
+   "sources": [
+    23
+   ],
+   "box": "buffers"
+  }
+ ],
+ "firsts": [
+  {
+   "label": "First full account of acid–base indicators",
+   "value": "1664",
+   "who": "Robert Boyle, England"
+  },
+  {
+   "label": "First modern definition of acids and bases",
+   "value": "1884",
+   "who": "Svante Arrhenius, Sweden"
+  },
+  {
+   "label": "The pH scale",
+   "value": "1909",
+   "who": "Søren Sørensen, Carlsberg Laboratory, Denmark"
+  },
+  {
+   "label": "Acids as proton donors",
+   "value": "1923",
+   "who": "Johannes Brønsted, Denmark, and Martin Lowry, England"
+  },
+  {
+   "label": "First electronic pH meter",
+   "value": "1934",
+   "who": "Arnold Beckman, United States"
+  }
+ ],
+ "people": [
+  {
+   "name": "Robert Boyle",
+   "life": "1627 – 1691",
+   "role": "Natural philosopher",
+   "from": "Ireland and England",
+   "note": "Used the colours of plant dyes to tell acids from alkalis."
+  },
+  {
+   "name": "Antoine Lavoisier",
+   "life": "1743 – 1794",
+   "role": "Chemist",
+   "from": "France",
+   "note": "Named oxygen the \"acid-former\", a mistake that still lives in the element's name."
+  },
+  {
+   "name": "Humphry Davy",
+   "life": "1778 – 1829",
+   "role": "Chemist",
+   "from": "England",
+   "note": "Proved hydrochloric acid has no oxygen and named chlorine."
+  },
+  {
+   "name": "Svante Arrhenius",
+   "life": "1859 – 1927",
+   "role": "Chemist",
+   "from": "Sweden",
+   "note": "Explained acids and bases as ions in water; Nobel Prize 1903."
+  },
+  {
+   "name": "Søren Sørensen",
+   "life": "1868 – 1939",
+   "role": "Chemist",
+   "from": "Denmark",
+   "note": "Head of the Carlsberg Laboratory from 1901 to 1938, and inventor of pH."
+  },
+  {
+   "name": "Margrethe Høyrup Sørensen",
+   "life": "",
+   "role": "Chemist",
+   "from": "Denmark",
+   "note": "Worked with her husband Søren Sørensen on the protein studies behind pH."
+  },
+  {
+   "name": "Johannes Brønsted",
+   "life": "1879 – 1947",
+   "role": "Physical chemist",
+   "from": "Denmark",
+   "note": "Defined acids as proton donors in 1923, independently of Lowry."
+  },
+  {
+   "name": "Phyllis Tookey Kerridge",
+   "life": "",
+   "role": "Chemist and physiologist",
+   "from": "England",
+   "note": "Built the first glass electrode able to measure the pH of blood."
+  },
+  {
+   "name": "Arnold Beckman",
+   "life": "1900 – 2004",
+   "role": "Chemist and instrument maker",
+   "from": "United States",
+   "note": "Built the first electronic pH meter to test lemon juice."
+  },
+  {
+   "name": "M. C. Mehta",
+   "life": "born 1946",
+   "role": "Environmental lawyer",
+   "from": "India",
+   "note": "Brought the case that led the Supreme Court to protect the Taj Mahal from industrial pollution."
+  }
+ ],
+ "series": [
+  {
+   "id": "ocean",
+   "title": "Average pH of the ocean surface",
+   "unit": "pH",
+   "log": false,
+   "after": "world",
+   "caption": "The sea has absorbed carbon dioxide from the air, and its surface pH has fallen by about 0.1, which is roughly a quarter more hydrogen ions.",
+   "points": [
+    {
+     "year": 1850,
+     "value": 8.17,
+     "label": "About 1850, before industry: about 8.17"
+    },
+    {
+     "year": 1950,
+     "value": 8.15,
+     "label": "1950: about 8.15"
+    },
+    {
+     "year": 2020,
+     "value": 8.05,
+     "label": "2020: about 8.05"
+    }
+   ]
+  }
+ ],
+ "facts": [
+  "Oxygen's name means \"acid-former\". Lavoisier chose it in 1777 because he wrongly thought every acid contained oxygen.",
+  "Nobody knows for certain what the p in pH stands for. Sørensen never said. \"Power\" (Potenz, puissance) is the usual guess.",
+  "The pH scale was invented in a brewery's research laboratory, and the first pH meter was built to test lemon juice.",
+  "Arrhenius's thesis on ions earned a low pass grade at Uppsala in 1884, and the Nobel Prize in 1903.",
+  "Acid water draining from a mine at Iron Mountain, California, has been measured at pH −3.6."
+ ],
+ "sources": [
+  {
+   "title": "Acid–base reaction",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acid%E2%80%93base_reaction"
+  },
+  {
+   "title": "pH",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/PH"
+  },
+  {
+   "title": "Litmus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Litmus"
+  },
+  {
+   "title": "Experiments and Considerations Touching Colours (1664), by Robert Boyle",
+   "publisher": "Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/14504"
+  },
+  {
+   "title": "Guillaume-François Rouelle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Guillaume-Fran%C3%A7ois_Rouelle"
+  },
+  {
+   "title": "Oxygen",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oxygen"
+  },
+  {
+   "title": "Humphry Davy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Humphry_Davy"
+  },
+  {
+   "title": "Robert Angus Smith",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Robert_Angus_Smith"
+  },
+  {
+   "title": "Phenolphthalein",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phenolphthalein"
+  },
+  {
+   "title": "Svante Arrhenius",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Svante_Arrhenius"
+  },
+  {
+   "title": "The Nobel Prize in Chemistry 1903",
+   "publisher": "NobelPrize.org",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1903/summary/"
+  },
+  {
+   "title": "Henderson–Hasselbalch equation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation"
+  },
+  {
+   "title": "S. P. L. Sørensen",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/S._P._L._S%C3%B8rensen"
+  },
+  {
+   "title": "Glass electrode",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Glass_electrode"
+  },
+  {
+   "title": "Brønsted–Lowry acid–base theory",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory"
+  },
+  {
+   "title": "pH meter",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/PH_meter"
+  },
+  {
+   "title": "Is the Stephan curve still relevant? (review of plaque pH and the critical pH)",
+   "publisher": "Canadian Dental Association, JCDA",
+   "url": "https://www.cda-adc.ca/jadc/vol-72/issue-10/923.pdf"
+  },
+  {
+   "title": "Acid rain",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acid_rain"
+  },
+  {
+   "title": "Gene Likens",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gene_Likens"
+  },
+  {
+   "title": "Superacid",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Superacid"
+  },
+  {
+   "title": "Magic acid",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magic_acid"
+  },
+  {
+   "title": "The Nobel Prize in Chemistry 1994",
+   "publisher": "NobelPrize.org",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1994/summary/"
+  },
+  {
+   "title": "M. C. Mehta v. Union of India and Others (Taj Trapezium case)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/M._C._Mehta_v._Union_of_India_and_Others"
+  },
+  {
+   "title": "The Discoloration of the Taj Mahal due to Particulate Carbon and Dust Deposition (Bergin et al., 2015)",
+   "publisher": "Duke University, Bergin group",
+   "url": "https://bergin.pratt.duke.edu/publications/discoloration-taj-mahal-due-particulate-carbon-and-dust-deposition"
+  },
+  {
+   "title": "Ocean acidification",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ocean_acidification"
+  },
+  {
+   "title": "Self-ionization of water",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Self-ionization_of_water"
+  },
+  {
+   "title": "Bicarbonate buffer system",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bicarbonate_buffer_system"
+  },
+  {
+   "title": "pH indicator",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/PH_indicator"
+  },
+  {
+   "title": "Acid dissociation constant",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acid_dissociation_constant"
+  },
+  {
+   "title": "Sulfuric acid",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sulfuric_acid"
+  },
+  {
+   "title": "Is alkaline water better?",
+   "publisher": "Harvard Health Publishing",
+   "url": "https://www.health.harvard.edu/staying-healthy/is-alkaline-water-better"
+  },
+  {
+   "title": "Trends in Atmospheric Carbon Dioxide, Mauna Loa",
+   "publisher": "NOAA Global Monitoring Laboratory",
+   "url": "https://gml.noaa.gov/ccgg/trends/"
+  },
+  {
+   "title": "Acid soil management in the north-eastern hill region of India",
+   "publisher": "Indian Council of Agricultural Research, Indian Farming",
+   "url": "https://epubs.icar.org.in/index.php/IndFarm/article/view/113461"
+  },
+  {
+   "title": "Antacid",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Antacid"
+  },
+  {
+   "title": "Approximate pH of Foods and Food Products",
+   "publisher": "US Food and Drug Administration (copy hosted by RiverStone Health)",
+   "url": "https://riverstonehealth.org/wp-content/uploads/FDA-Approximate-pH-of-Foods.pdf"
+  },
+  {
+   "title": "Turmeric paper",
+   "publisher": "Museum of Fine Arts Boston, CAMEO",
+   "url": "https://cameo.mfa.org/wiki/Turmeric_paper"
+  },
+  {
+   "title": "Do you know your safety spectacles from your goggles?",
+   "publisher": "Royal Society of Chemistry, Education in Chemistry",
+   "url": "https://edu.rsc.org/endpoint/do-you-know-your-safety-spectacles-from-your-goggles/4021475.article"
+  },
+  {
+   "title": "George Andrew Olah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/George_Andrew_Olah"
+  }
+ ]
+}
